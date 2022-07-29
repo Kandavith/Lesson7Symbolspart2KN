@@ -1,2 +1,2 @@
 Lesson 7 Symbols Part 2 
-I also made correction on dropbox csv file sharing.
+I also made correction on dropbox csv file sharing, using the all_week earthquake data that I used in lab 6 as per instruction. 
